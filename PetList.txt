@@ -1,0 +1,9 @@
+D1, Buddy, 2, 10.5, Brown, Male, Phu Quoc, 500, Bone
+D2, Lucy, 3, 12.2, Black, Male, Bac Kinh, 350, cereal
+D3, Lucky, 1, 8.5, White, Female, Corgi, 600, cereal
+B1, Do, 1, 0.5, Red, Female, Canada, 1200, true
+B2, Re, 2, 2.0, White, Male, USA, 1000, false
+B3, Mi, 1, 1.5, Pink, Male, China, 800, true
+B4, Fa, 1, 1.8, Green, Female, ThaiLand, 900, true
+D4, LiLi, 12, 10.0, red, male, phu quoc, 400, bone
+D4, LoLo, 13, 9.0, pink, female, hcm, 800, true

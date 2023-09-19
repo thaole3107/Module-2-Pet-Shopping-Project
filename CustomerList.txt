@@ -1,0 +1,4 @@
+Regular customer: R1, John, 800.0
+Regular customer: R2, Ben, 1000.0
+Vip customer: V1, Marry, 5000.0
+Vip customer: V2, LyLy, 8000.0
